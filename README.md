@@ -1,7 +1,7 @@
 # Site de cachorro
 
 <div align="center">
-<img src="https://github.com/CauiDavis/site-felino/raw/main/img/gato%20800x400%201.jpg" width="250" />
+<img src="https://github.com/CauiDavis/site-de-cachorro/raw/main/images/Cachorrosfoto1.jpeg" width="250" />
 
 <div data-badges>
   <img src="https://img.shields.io/github/stars/CauiDavis/site-de-cachorro?style=for-the-badge" alt="GitHub stars" />
